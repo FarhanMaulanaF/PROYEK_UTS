@@ -1,0 +1,49 @@
+C:\Users\Lenovo\source\repos\ProjekUjianTengahSemester\ProjekUjianTengahSemester\bin\Debug\ProjekUjianTengahSemester.exe.config
+C:\Users\Lenovo\source\repos\ProjekUjianTengahSemester\ProjekUjianTengahSemester\bin\Debug\ProjekUjianTengahSemester.exe
+C:\Users\Lenovo\source\repos\ProjekUjianTengahSemester\ProjekUjianTengahSemester\bin\Debug\ProjekUjianTengahSemester.pdb
+C:\Users\Lenovo\source\repos\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.exe
+C:\Users\Lenovo\source\repos\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.pdb
+C:\Users\Lenovo\source\repos\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.Dashboard.resources
+C:\Users\Lenovo\source\repos\ProjekUjianTengahSemester\ProjekUjianTengahSemester\bin\Debug\Guna.UI2.dll
+C:\Users\Lenovo\source\repos\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.Login.resources
+C:\Users\Lenovo\source\repos\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.UserControls.Welcome.resources
+C:\Users\Lenovo\source\repos\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.UserControls.AddItems.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\bin\Debug\ProjekUjianTengahSemester.exe.config
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\bin\Debug\ProjekUjianTengahSemester.exe
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\bin\Debug\ProjekUjianTengahSemester.pdb
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.Dashboard.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.Login.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.UserControls.AddItems.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.UserControls.Welcome.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.exe
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.pdb
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.UserControls.PlaceOrder.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.UpdateItems.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.RemoveItems.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\bin\Debug\ProjekUjianTengahSemester.exe.config
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\bin\Debug\ProjekUjianTengahSemester.exe
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\bin\Debug\ProjekUjianTengahSemester.pdb
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.Dashboard.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.Login.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.RemoveItems.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.UpdateItems.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.UserControls.AddItems.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.UserControls.PlaceOrder.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.UserControls.Welcome.resources
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.exe
+C:\Users\Lenovo\OneDrive - UGM 365\Desktop\BackUp - Tanpa Guna\ProjekUjianTengahSemester\ProjekUjianTengahSemester\obj\Debug\ProjekUjianTengahSemester.pdb
